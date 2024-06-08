@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/company.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/employees.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/salary_select.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project/insertImport.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project" />
+      </map>
+    </option>
+  </component>
+</project>

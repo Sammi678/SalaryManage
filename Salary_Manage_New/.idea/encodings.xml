@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/controller/CalculationsController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/controller/LoginController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/controller/ProjectsController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/controller/SalarySettlementController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/controller/SalarySettlementDetailsController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/dao/inter/DepartmentsMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/dao/inter/FixedSalarysMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/dao/inter/ImportProjectsMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/dao/inter/SalarySettlementDetailsMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/service/ImportProjectsService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/service/SalarySettlementService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/com/smer/utils/ExcelUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

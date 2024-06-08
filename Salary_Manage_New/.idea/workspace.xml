@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Salary_Manage_New:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e67c740-178b-4b77-b9b9-38dd440a57d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/fmt.tld" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/fmt.tld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/company.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/company.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/departments.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/departments.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/employees.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/salary_select.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/salary_select.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/calculation/calculationAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/calculation/calculationAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/calculation/calculationUpdate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/calculation/calculationUpdate.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_select.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_select.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project/insertImport.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project/insertImport.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project/selectImport.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project/selectImport.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project/updateImport.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project/updateImport.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/inc/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/inc/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/inc/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/inc/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/projects/projectsAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/projects/projectsAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/projects/projectsSelect.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/projects/projectsSelect.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/projects/projectsUpdate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/projects/projectsUpdate.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/salarySettlements/salary_settlement.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/salarySettlements/salary_settlement.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pages/salarySettlements/salary_settlement_details.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pages/salarySettlements/salary_settlement_details.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/css/creative.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/css/plugins/chosen/chosen.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/css/plugins/chosen/chosen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/css/plugins/dataTables/datatables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/css/plugins/dataTables/datatables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/css/plugins/datapicker/datepicker3.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/css/plugins/datapicker/datepicker3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/css/plugins/jqGrid/ui.jqgrid.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/css/plugins/jqGrid/ui.jqgrid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/css/plugins/sweetalert/sweetalert.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/css/plugins/sweetalert/sweetalert.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/img/main.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/img/main.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/inspinia.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/inspinia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/jquery-2.1.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/jquery-2.1.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/chosen/chosen.jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/chosen/chosen.jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/dataTables/datatables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/dataTables/datatables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/datapicker/bootstrap-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/datapicker/bootstrap-datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/jeditable/jquery.jeditable.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/jeditable/jquery.jeditable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/jqGrid/jquery.jqGrid.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/jqGrid/jquery.jqGrid.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/metisMenu/jquery.metisMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/metisMenu/jquery.metisMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/pace/pace.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/pace/pace.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/select2/select2.full.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/select2/select2.full.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/js/plugins/slimscroll/jquery.slimscroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/js/plugins/slimscroll/jquery.slimscroll.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/brands.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/brands.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/regular.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/regular.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/solid.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/solid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/jquery-easing/jquery.easing.compatibility.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/jquery-easing/jquery.easing.compatibility.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/jquery-easing/jquery.easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/jquery-easing/jquery.easing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/jquery/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/magnific-popup/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/static/vendor/magnific-popup/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/static/vendor/magnific-popup/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dao/dto/Projects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dao/dto/Projects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dao/dto/SalarySettlements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dao/dto/SalarySettlements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/FixedSalarysMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/FixedSalarysMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/ImportProjectsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/ImportProjectsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/ProjectsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/ProjectsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/SalarySettlementsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/SalarySettlementsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/UsersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dao/inter/UsersMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dtoform/ProjectsForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dtoform/ProjectsForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/dtoform/SalarySettlementsForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/dtoform/SalarySettlementsForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/com/smer/utils/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/com/smer/utils/ExcelUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2hPymBJztuksJxVWxdWZbcQKySo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\软件工程\Wage-management-system-of-enterprises-based-on-SSM\最终成型项目\Salary_Manage_New\WebContent\WEB-INF\pages\baobiao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.78" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.78" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Salary_Manage_New_war_exploded/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="Salary_Manage_New:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Salary_Manage_New_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a5ca3595-3b20-4234-a84f-0c9cd30f607a" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61195" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Salary_Manage_New:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\软件工程\Wage-management-system-of-enterprises-based-on-SSM\最终成型项目\Salary_Manage_New" />
+          <option name="myCopyRoot" value="E:\软件工程\Wage-management-system-of-enterprises-based-on-SSM\最终成型项目\Salary_Manage_New" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\软件工程\Wage-management-system-of-enterprises-based-on-SSM\最终成型项目\Salary_Manage_New" />
+          <option name="myCopyRoot" value="E:\软件工程\Wage-management-system-of-enterprises-based-on-SSM\最终成型项目\Salary_Manage_New" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e67c740-178b-4b77-b9b9-38dd440a57d3" name="Changes" comment="" />
+      <created>1717510171851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717510171851</updated>
+      <workItem from="1717510173267" duration="3145000" />
+      <workItem from="1717554399556" duration="6833000" />
+      <workItem from="1717566357010" duration="5543000" />
+      <workItem from="1717588846579" duration="876000" />
+      <workItem from="1717590990653" duration="1362000" />
+      <workItem from="1717599136788" duration="5265000" />
+      <workItem from="1717636341150" duration="1883000" />
+      <workItem from="1717639421609" duration="1392000" />
+      <workItem from="1717674507912" duration="1207000" />
+      <workItem from="1717682093510" duration="10750000" />
+      <workItem from="1717720085531" duration="11357000" />
+      <workItem from="1717739375563" duration="777000" />
+      <workItem from="1717746896865" duration="20298000" />
+      <workItem from="1717769323862" duration="2905000" />
+      <workItem from="1717774113563" duration="5024000" />
+      <workItem from="1717812206644" duration="11758000" />
+      <workItem from="1717844114675" duration="4668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
